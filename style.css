@@ -1,0 +1,23 @@
+.header {
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+
+.nav-item {
+    float: right;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-header {
+    color: #17A2B8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.row {
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 40px
+
+}
