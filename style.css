@@ -1,7 +1,6 @@
 .header {
     font-family: "Georgia", "Times New Roman", Times, serif;
     font-size: large;
-    margin-left: 240px;
     text-align: center;
 }
 
@@ -27,4 +26,12 @@
 
 hr.solid {
     border-top: 3px solid #bbb;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1533628635777-112b2239b1c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)");
+}
+
+main {
+    background-color: white;
 }
