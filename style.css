@@ -27,7 +27,7 @@ html {
     padding-bottom: 10px;
     margin-left: 20px;
     margin-right: 20px;
-    width: 100%
+    width: 100%;
 }
 
 hr.solid {
@@ -55,7 +55,7 @@ main {
     position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: "20px";
-    padding-right: "40px"
+    padding-right: "40px";
 }
 
 .footer {
